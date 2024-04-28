@@ -87,3 +87,21 @@ in Java we can't change the type of the variable, static type
 2. Java variables much have a specific type.
 3. Java variables types can never change.
 4. Types are varified before the code even runs!!
+
+目前大概講了 Java 基本的語法，沒特別的新東西。
+
+2D
+
+- Java is an object oriented language with strict requirements
+- define a main method
+
+- Static typing
+  - The good
+    - catches certain types of errors
+    - type error can never occur on the end user's computer
+    - easier to read and reason about code
+    - code can run more efficiently
+  - The bad
+    - Code is more verbose
+    - Code is less general
+      - larger(-5,5,-10) and larger(-5,-10)

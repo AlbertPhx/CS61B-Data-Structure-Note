@@ -1,4 +1,7 @@
+//** Demonstrates creation of .... */
 public class LargerDemo{
+    /** Returns the larger of x and y. 
+     @precondition */
     public static int larger( int x, int y){
         if(x>y){
             return x;
@@ -20,3 +23,4 @@ public class LargerDemo{
 3. All parameters of a function mush have a declared type.
     Functuins in Java return only one value
 */
+
